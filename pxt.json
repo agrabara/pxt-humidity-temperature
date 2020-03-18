@@ -5,8 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "i2cLCD1602": "github:makecode-extensions/i2clcd1602#030ffbfdcd33b80761c014717d3caf8e6b4e14db",
-        "Environment_IoT": "github:elecfreaks/pxt-environment#91e50fd64179215909b6eb8cd08e60542bdfd5ff"
+        "dht11": "github:monadnocksystems/pxt-dht11#v0.0.33",
+        "i2cLCD1602": "github:makecode-extensions/i2clcd1602#030ffbfdcd33b80761c014717d3caf8e6b4e14db"
     },
     "files": [
         "README.md",
