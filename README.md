@@ -1,21 +1,12 @@
 # pxt-humidity-temperature
 
+Przykładowy projekt - jak podłączyć LCD1620 i DTH11
+https://osoyoo.com/2018/09/20/micro-bit-lesson-dispaly-the-temperature-and-humidity-on-the-i2c-1602-lcd-screen/
 
-
-## TODO
-
-- [ ] Add a reference for your blocks here
-- [ ] Add "icon.png" image (300x200) in the root folder
-- [ ] Add "- beta" to the GitHub project description if you are still iterating it.
-- [ ] Turn on your automated build on https://travis-ci.org
-- [ ] Use "pxt bump" to create a tagged release on GitHub
-- [ ] On GitHub, create a new file named LICENSE. Select the MIT License template.
-- [ ] Get your package reviewed and approved https://makecode.microbit.org/extensions/approval
-
-Read more at https://makecode.microbit.org/extensions
-
-## Supported targets
-
-* for PXT/microbit
-(The metadata above is needed for package search.)
+<IMG SRC="https://osoyoo.com/wp-content/uploads/2018/09/Dispaly-the-Temperature-and-Humidity-on-the-I2C-1602-LCD-Screen_bb-1024x662.jpg">
+  
+Biblioteki:
+- https://github.com/agrabara/pxt-dht11
+- https://github.com/MonadnockSystems/pxt-dht11
+- https://github.com/makecode-extensions/i2cLCD1602
 
